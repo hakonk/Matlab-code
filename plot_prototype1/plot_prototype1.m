@@ -1,6 +1,6 @@
 % This script creates the plot of the author's interaction with 
 % prototype 1 as shown in Chapter 3
-% Licensed under GNU GPL 3
+% Licensed under the MIT license
 
 % Importing recorded marker position data:
 tactAmx = importdata('markerX'); tactAmy = importdata('markerY');
